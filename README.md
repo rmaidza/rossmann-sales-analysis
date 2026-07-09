@@ -2,7 +2,6 @@
 
 Exploratory analysis and sales prediction across 1,115 Rossmann drug stores, uncovering what drives daily sales and comparing two models for forecasting them.
 
-![Sales by day of week](results/sales_by_day_of_week.png)
 
 ## Problem & Motivation
 
